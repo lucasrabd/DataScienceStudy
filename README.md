@@ -18,7 +18,7 @@ Este projeto permite a criação de um caderno, em que fazemos anotações à me
 3. Siga as instruções e execute as células de código conforme necessário.
 
 ## Conjunto de Dados
-Neste projeto, trabalharemos com o conjunto de dados do MovieLens, que contém avaliações de filmes por usuários da internet. O conjunto de dados pode ser encontrado [aqui](link_para_os_dados).
+Neste projeto, trabalharemos com o conjunto de dados do MovieLens, que contém avaliações de filmes por usuários da internet. O conjunto de dados pode ser encontrado [aqui](grouplens.org/datasets/movielens).
 
 ## Objetivo
 O objetivo deste projeto é demonstrar os fundamentos da ciência de dados usando Python e Jupyter Notebook, explorando e analisando dados reais.
